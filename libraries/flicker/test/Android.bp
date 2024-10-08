@@ -35,6 +35,7 @@ java_defaults {
         "flickerlib",
         "flickerlib-trace_processor_shell",
         "FlickerLibTest-Utils",
+        "launcher-aosp-tapl",
         "mockito-target-extended-minus-junit4",
     ],
     data: [

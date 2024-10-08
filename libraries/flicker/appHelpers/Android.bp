@@ -29,5 +29,6 @@ java_library {
     ],
     static_libs: [
         "flickerlib-parsers",
+        "launcher-aosp-tapl",
     ],
 }
